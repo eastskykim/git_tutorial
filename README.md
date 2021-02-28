@@ -1,2 +1,2 @@
 # git_tutorial
-same repository made for git tutorial purpose
+repository made for git tutorial purpose
